@@ -1,10 +1,6 @@
---Grupo #3
---Erick Hern醤dez Ugalde    100%
---Caleb Leon Azofeifa       100%
---Daniel Madrigal Mendez    100%
 
 --------------------------------------------------------------------------------
--- Creaci髇 de usuario para modelo Entidad-Relaci髇.
+-- Creaci贸n de usuario para modelo Entidad-Relaci贸n.
 --------------------------------------------------------------------------------
 -- alter session set "_ORACLE_SCRIPT" = TRUE;
 -- DROP USER PROYECTOABD_ER CASCADE;
@@ -12,7 +8,7 @@
  CREATE USER PROYECTOABD_ER IDENTIFIED BY Oracle01 DEFAULT TABLESPACE USERS QUOTA UNLIMITED ON USERS;
  GRANT CONNECT, RESOURCE TO PROYECTOABD_ER;
 --------------------------------------------------------------------------------
--- Creaci髇 de tablas entidad-relaci髇
+-- Creaci贸n de tablas entidad-relaci贸n
 
 CREATE TABLE TIPO_ENVIO (
    TPE_ID                    INTEGER NOT NULL PRIMARY KEY,
