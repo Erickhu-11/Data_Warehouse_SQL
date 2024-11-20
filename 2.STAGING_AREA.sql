@@ -1,10 +1,6 @@
---Grupo #3
---Erick Hernández Ugalde    100%
---Caleb Leon Azofeifa       100%
---Daniel Madrigal Mendez    100%
 
 --------------------------------------------------------------------------------
--- Creación de usuario para modelo Staging Area.
+-- CreaciÃ³n de usuario para modelo Staging Area.
 --------------------------------------------------------------------------------
 -- alter session set "_ORACLE_SCRIPT" = TRUE;
 -- DROP USER PROYECTOABD_SA CASCADE;
