@@ -1,7 +1,4 @@
---Grupo #3
---Erick Hernández Ugalde    100%
---Caleb Leon Azofeifa       100%
---Daniel Madrigal Mendez    100%
+
 
 --------------------------------------------------------------------------------
 -- Creaci n de usuario para modelo Data-Warehouse.
