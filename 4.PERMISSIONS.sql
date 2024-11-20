@@ -1,7 +1,4 @@
---Grupo #3
---Erick Hernández Ugalde    100%
---Caleb Leon Azofeifa       100%
---Daniel Madrigal Mendez    100%
+
 
 GRANT SELECT ON PROYECTOABD_ER.CLIENTE TO PROYECTOABD_DW;
 GRANT SELECT ON PROYECTOABD_ER.ORDEN_COMPRA TO PROYECTOABD_DW;
